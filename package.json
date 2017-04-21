@@ -1,0 +1,24 @@
+{
+  "name": "facebook_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --watch tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles1104/Facebook-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charles1104/Facebook-Challenge/issues"
+  },
+  "homepage": "https://github.com/Charles1104/Facebook-Challenge#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
